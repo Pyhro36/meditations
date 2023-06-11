@@ -3,7 +3,7 @@
 > Musique écoutée en même temps : https://www.youtube.com/watch?v=KI6lSZI7Evs
 
 Un contrat est une notion acquise très rapidement évidente
-pour la plupart des êtres humains.
+pour la plupart des êtres humains aujour'dhui.
 À tel point qu'elle est connue
 par les plus jeunes d'entres eux
 avant même qu'ils en connaissent le mot.
@@ -56,7 +56,7 @@ Par ailleurs, il est à noter
 que les personnes rédigeant le contrat
 sont logiquement également liées à ce dernier
 au moins d'une certaine manière,
-et si l'exclu l'hypothèse d'un Dieu monadique
+et si l'on exclut l'hypothèse d'un Dieu monadique
 liant les êtres entre eux mais de manière exogène.
 Etant liées elle-même au contrat,
 on peut alors considérer qu'elle sont elles aussi,
@@ -160,23 +160,35 @@ sans que la partie utilisatrice s'en rende compte
 et puisse donc invoquer un cas de contrat non remplit,
 avec tout ce que cela implique.
 
+La notion de minimalité du contrat est d'autant plus valable
+dans le cas le plus évanescent de contrat :
+le contrat tacite.
+Un contrat est dit tacite quand il n'est pas formellement énoncé,
+en particulier par écrit.
+Mais même parfois, il ne l'est même pas par oral et devient alors implicite.
+Le cas qui me vient le plus rapidement à l'esprit
+est le cas de rencontres successives entre amis,
+ou chacun rapporte à chaque fois une denrée à partager,
+mais que jamais ne soient comparées concrêtement les coûts de ces denrées,
+afin d'en déduire une égalité dans la participation de chacun.
 
-Contrat tacite
-Ce dernier cas est encore plus particulier.
-A l'inverse des deux autres,
-le fait qu'il soit tacite
-implique nécessairement que les deux parties le définissent
-ensemble en même temps
-et plus ou moins consciemment.
-Cette complexité supplémentaire dans l'établissement
-de la définition même
-ajoute une couche de complexité supplémentaire
-au contrat lui-même,
-mêlant parfois avec l'implicite et l'ambigu,
-ce qui peut souvent amener l'une des deux parties
-à mal interpréter sa part du contrat
-et donc à mal la remplir,
-souvent malgré elle et sans le vouloir. 
+En comparaison des autres détaillés plus haut,
+le contrat tacite est un cas encore plus particulier.
+Le fait qu'il soit justement tacite
+implique nécessairement 
+que les deux parties le définissent ensemble et en même temps.
+Par ailleurs elles le définissent plus ou moins consciemment.
+Cette complexité supplémentaire
+dans l'établissement de la définition même
+ajoute une couche de compléxité supplémentaire
+au contrat lui-même.
+Celui-ci mêle alors même parfois l'implicite et l'ambigu.
+Cela peut alors, et même souvent,
+amener l'une des deux parties
+à mal interpréter sa part du contrat.
+Elle peut donc se retrouver,
+malgré sa volonté même,
+à ne pas remplir sa part du contrat.
 
 
 
